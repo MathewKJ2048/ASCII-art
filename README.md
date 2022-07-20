@@ -11,4 +11,4 @@ An ASCII art generator written in java using swing
 - Icon: [Gil Barbara](https://github.com/gilbarbara)
 - GUI: [Mathew K J](https://github.com/MathewKJ2048)
 - Documentation: [Mathew K J](https://github.com/MathewKJ2048)
-- [IDE: IntelliJ idea community edition](https://www.jetbrains.com/idea/download/#section=windows)
+- IDE: [IntelliJ idea community edition](https://www.jetbrains.com/idea/download/#section=windows)
