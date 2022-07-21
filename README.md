@@ -4,8 +4,8 @@ An ASCII art generator, which converts images to ASCII art, written in java usin
 ## Installation:
 For the application to run, java version 17 or higher is required. The JRE should not be headless since the GUI uses swing.
 
-- Linux: download [linux.zip]() and run __run.sh__
-- Windows: download either [windows_jar.zip]() and run __run.bat__ or [windows_executable.zip]()  and run __ASCII art generator.exe__
+- Linux: download [linux.zip](https://github.com/MathewKJ2048/ASCII-art/blob/main/downloads/linux.zip?raw=true) and run __run.sh__
+- Windows: download either [windows_jar.zip](https://github.com/MathewKJ2048/ASCII-art/blob/main/downloads/windows_jar.zip?raw=true) and run __run.bat__ or [windows_executable.zip](https://github.com/MathewKJ2048/ASCII-art/blob/main/downloads/windows_executable.zip)  and run __ASCII art generator.exe__
 - OSX: ~~go pound sand~~ download and run [ASCII art generator.jar](https://rebrand.ly/r1ckr0l13r)
 
 ## Use:
