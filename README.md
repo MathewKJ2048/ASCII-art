@@ -37,4 +37,6 @@ For the application to run, java version 17 or higher is required. The JRE shoul
 - Documentation: [Mathew K J](https://github.com/MathewKJ2048)
 - IDE: [IntelliJ idea community edition](https://www.jetbrains.com/idea/download/#section=windows)
 
+---
+
 ![alt text](doc/comparison.png)
