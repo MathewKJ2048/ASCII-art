@@ -1,5 +1,5 @@
 # ASCII-art
-An ASCII art generator written in java using swing
+An ASCII art generator written in java using swing.
 
 ## Installation:
 
