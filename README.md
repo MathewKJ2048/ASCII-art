@@ -10,9 +10,12 @@ For the application to run, java version 17 or higher is required. The JRE shoul
 
 ## Use:
 
+![alt text](doc/file.png)
+
 - Click the __load__ button in the __File__ tab to load the image.
 - After setting the compression parameters, click the __Generate__ button.
 
+![alt text](doc/settings.png)
 
 - The destination directory can be changed in the __Settings__ tab.
 - It is recommended that the height compression be twice the width compression.
