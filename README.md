@@ -1,7 +1,12 @@
 # ASCII-art
-An ASCII art generator written in java using swing.
+An ASCII art generator, which converts images to ASCII art, written in java using swing.
 
 ## Installation:
+For the application to run, java version 17 or higher is required. The JRE should not be headless since the GUI uses swing.
+
+- Linux: download [linux.zip]() and run __run.sh__
+- Windows: download either [windows_jar.zip]() and run __run.bat__ or [windows_executable.zip]()  and run __ASCII art generator.exe__
+- OSX: ~~go pound sand~~ download and run [ASCII art generator.jar](https://rebrand.ly/r1ckr0l13r)
 
 
 ## Credits:
