@@ -8,6 +8,22 @@ For the application to run, java version 17 or higher is required. The JRE shoul
 - Windows: download either [windows_jar.zip]() and run __run.bat__ or [windows_executable.zip]()  and run __ASCII art generator.exe__
 - OSX: ~~go pound sand~~ download and run [ASCII art generator.jar](https://rebrand.ly/r1ckr0l13r)
 
+## Use:
+
+- Click the __load__ button in the __File__ tab to load the image.
+- After setting the compression parameters, click the __Generate__ button.
+
+
+- The destination directory can be changed in the __Settings__ tab.
+- It is recommended that the height compression be twice the width compression.
+- The ASCII is best viewed using a monospaced font.
+
+## Features:
+
+- Supported image formats: webmp, jpeg, png, gif, bmp
+- image compression with custom parameters
+- editable ASCII grayscale
+- customizable look and feel
 
 ## Credits:
 
